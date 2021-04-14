@@ -1,0 +1,380 @@
+The CED- protein is one of a continuously growing family of specific cysteine proteases termed caspases that are thought to be the executioners of programmed cell death  .
+Initiator caspases are thought to be at the beginning of a proteolytic cascade that amplifies the cell death signal and results in the activation of the effector caspases  .
+Drosophila has at least eight caspases five of which have been at least partially characterized Dcp- Dcp-Dredd drICE Dronc and Decay and three uncharacterized ones found encoded in the genome sequence   .
+C elegans appears to have only a single caspase - CED- - that is essential for all developmental cell death despite having three other caspases in its genome   .
+Three Drosophila caspases - Dcp-Dredd Dronc and one known only as a sequence in the genome database - have long pro-domains and are thus likely initiator caspases another four - Dcp- drICE Decay and another one found in the genome database - have short pro-domains and are probably effector caspases  .
+Interestingly Dronc appears to have a substrate specificity that is so far unique among caspases while all other known caspases have only been shown to cleave after aspartate residues Dronc can also cleave after glutamate residues   .
+This unusual substrate specificity may explain why Dronc is resistant to inhibition by the pan-caspase inhibitor p  .
+On the basis of current data it seems that CED- functions to help activate the caspase CED- and CED- blocks this activation through physical interaction with CED-  .
+Knock-out studies have shown that mice deficient for Apaf- have reduced cell death in certain tissues further supporting a role for Apaf- in programmed cell death  .
+The Drosophila homolog is more similar to Apaf- than to CED- it has the WD repeats found in Apaf- which potentially function in binding regulatory proteins such as cytochrome c  .
+Intriguingly the transcription of the Drosophila CED-Apaf- homolog is upregulated in response to both X-ray and ultraviolet irradiation suggesting that death-inducing stimuli can feed into the cell death pathway at this step   .
+Besides binding to Apaf- just as CED- binds and thereby regulates CED- activity mammalian Bcl- family members have been proposed to regulate mitochondrial homeostasis and the release of pro-apoptotic factors such as cytochrome c reviewed in   .
+Indeed most mitochondria released all their cytochrome c within a one minute period in a temperature-independent manner suggesting that an enzymatic transport mechanism is probably not involved  .
+There is no clear evidence for cytochrome c release during apoptosis in C elegans or Drosophila however  .
+Nevertheless a specific epitope is uncovered on cytochrome c in Drosophila mitochondria during apoptosis and this may be sufficient to help activate DarkHAC-Dapaf- and death-inducing stimuli result in an increase in cytochrome c in Drosophila cultured-cell lysates   .
+There is no apparent need for cytochrome c release in C elegans since CED- does not require it to activate CED-  .
+Recently a pro-apoptotic Drosophila Bcl- family member was identified with the help of the database of genomic sequence this gene is most closely related to mammalian Bok and potentially regulates apoptosis in the fly   .
+The Drosophila Bok homolog interacts with several anti-apoptotic but not with several pro-apoptotic Bcl- family members and therefore possibly functions by antagonizing pro-survival proteins  .
+This difference may be due to the slightly different constructs used in the experiments and the different assay systems  .
+A third group shows that peptide caspase inhibitors can block Drosophila Bok-mediated apoptosis in cell culture lending support to a model in which expression of Bok protein leads to caspase activation   .
+Genetically this Drosophila Bcl- family member appears to function upstream of or in parallel to the Drosophila ced-apaf- homolog and downstream of or in parallel to the Drosophila regulators of apoptosis reaper hid and grim   .
+In addition Reaper Hid and Grim are able to induce apoptosis in heterologous systems suggesting that vertebrate homologs of these proteins exist reviewed in   .
+More recently reports of a potential functional mammalian analog of Reaper Hid and Grim have been published   .
+Recently a Drosophila p ortholog was identified by searching the genome database reviewed in  and it was shown to bind a specific region of the reaper promoter thereby potentially regulating reaper transcription in response to ionizing radiation  .
+The observation that transcription of both reaper and darkhac-dapaf- can be induced by ionizing radiation suggests that these death-inducing signals can feed into the cell death pathway at multiple points  .
+Unlike reaper and grim hid appears to be regulated not only transcriptionally but also post-translationally by the Ras-MAP kinase pathway   .
+This additional level of control for hid could explain the observation that hid is expressed in cells that are doomed to die as well as in cells that continue to survive   .
+In fact Saccharomyces cerevisiae contains neither caspases nor an apoptotic program but it does have an IAP-like protein with a single BIR domain that functions in regulating cell division  suggesting that the IAPs are diverse family with only some members being anti-apoptotic hence this protein family is more accurately referred to as BIR-containing proteins BIRPs  .
+In general IAPs are thought to function at the caspase activation step in the cell death pathway binding to the inactive pro-domain-containing caspase zymogen and preventing it from being processed into the active enzyme reviewed in   .
+In addition IAPs can mono-ubiquitinate several caspases in vitro possibly marking them for degradation and again this activity requires the RING domain   .
+The exact role of the ubiquitination pathway in regulating apoptosis is still unclear  .
+Even the role of the RING domain in IAPs is open to debate mutations in the RING domain of endogenous diap can be either pro- or anti-apoptotic depending on the death-inducing stimulus  and J Agapite L Goyal K McCall and HS unpublished observations  .
+In addition while C elegans has two BIR-domain-containing proteins neither appears to regulate cell death BIR- has been demonstrated to be essential for cytokinesis instead   .
+Hence C elegans seems to have a mechanism for regulating caspase activation that differs from that of mammals and Drosophila in that it relies solely on the two Bcl- family members   .
+The Bcl- family appears to function in regulating the release of pro-apoptotic components from mitochondria as well as by possibly inhibiting Apaf- directly  .
+This pathway integrates knowledge gained in multiple species showing that apoptosis appears to be regulated in a similar manner regardless of the organism  .
+One notable exception is that the C elegans homologs of IAPs do not appear to function in programmed cell death  .
+Functional homologs that share little or no sequence homology may exist for the other members of the programmed cell death pathway In addition to Apaf- two other mammalian proteins Flash and NodCard share have similarity to CED- but these have not been extensively characterized in vivo reviewed in   .
+It is assumed that Xist RNA provides a mark for specific histones for example histone macroHA as well as proteins deacetylating histones and methylating many of the X-linked genes at GpC dinucleotides  all these events are important for maintaining the silenced state of the inactivated X  .
+Hypertranscription is a consequence of at least one chromatin modification the acetylation of histone H at Lys which is thought to 'loosen' chromatin structure thereby allowing the general transcription machinery easier access to the regulatory regions of most X-linked genes   .
+The role of the roX genes and roX RNAs in this process is still unclear  .
+These experiments indicated that the roX genes might function as nuclear entry sites for the assembly of the MSL proteins on the X chromosome  .
+Little was known however about the specific role of the roX RNAs during the formation of the DCC  .
+MLE appears to be the next protein to join the growing DCC as it is found at reduced levels at some of these sites when the remaining two proteins MSL and MOF are absent   .
+When the MLE protein which encodes an RNA helicase was absent both roX RNAs were found only at their site of transcription but not in any other of the entry sites where MSL and MSL were present suggesting that neither of the roX RNAs can be integrated in a minimal MSL-MSL complex  .
+These findings indicate that roX might be incorporated into this partial DCC complex in an MLE-dependent manner and that roX RNA is incorporated at a later stage together with MSL and perhaps MOF  .
+MLE is the only protein in the DCC featuring a known RNA-binding domain pointed towards the RNA helicase MLE as the primary candidate for a partner for the roX RNA  .
+They turned their focus towards the MOF protein as a potential candidate for interaction with roX RNA  .
+Interestingly immunoprecipitation assays using extracts from SL- cells transfected with wild-type or mutant mof genes indicated that the chromodomain is essential for the specific interaction between MOF and roX but that the amino-terminal region and HAT domain were not essential for this interaction  .
+We then tested the putative RNA-binding property of MOF directly using electromobility shift assays  .
+MOF appeared to bind to RNA rather non-specifically but preferred RNA to DNA  .
+Although the specificity of these interactions remains to be investigated the findings of Akthar and coworkers provide a new possible role for chromodomains involved in RNA binding  .
+The specific role of the chromodomain is unknown but chromodomain swapping experiments in Drosophila suggest that they might be protein interaction modules   .
+This suggests a new and rather unexpected role for these modules in RNA binding  .
+It is intriguing to speculate that the chromodomain of other remodeling proteins also exert their activity through RNA interactions and that RNAs might be more common than generally appreciated in transcriptional regulation  .
+How can we reconcile the findings of Akthar et al  .
+First it might be relevant that the co-immunoprecipitations and the in vitro binding experiments were performed with SL- cell extracts cells in which dosage compensation appears not to be necessary SL- cells like other Drosophila cell lines can become aneuploid without reduced viability  .
+The soluble DCCs from these extracts are therefore not necessarily functional and might differ from those in males  .
+Second the interaction between roX RNA and MOF protein appears to lack specificity  .
+The lack of specificity might be attributed to a number of reasons such as the absence of other MSL components the presence of other RNAs interacting with MOF or worse it might reflect a property of MOF without functional significance that is MOF might not contact RNA at all in vivo  .
+Keeping this cautious note in mind a more attractive alternative could be envisioned  .
+The main proposition of this model is that roX can interact with both MLE and MOF and perhaps even other MSL proteins as both roX RNAs are certainly large enough to accommodate binding sites for several proteins   .
+If such a scenario is correct each of the interactions between different components of the DCC might be quite weak and perhaps not even highly specific but in the context of additional interactions becomes more stable  .
+The addition of each new component might therefore strengthen existing interactions by optimizing contacts between binding surfaces through adjustments in the higher-order structure of the components Figure   .
+Evidence from co-immunoprecipitation experiments indicates that MSL and MSL interact directly with each other a notion supported by the MSL-MSL association at the chromosomal entry sites in the absence of any other MSLs the preDCC Figure   .
+The addition of both MLE and roX RNA might allow the formation of a primary complex the primDCC which might be stabilized by the direct interaction of a structural motif of roX RNA with the MLE protein as well as interactions of this complex with MSL and MSL  .
+The primDCC might then be reinforced by the addition of the remaining two proteins MSL and MOF one or both of which might recognize other motifs within the roX RNA to form the mature complex matDCC  .
+Finally matDCC might be further stabilized by the addition of roX RNA which could interact with several of the MSLs and perhaps roX RNA as well  .
+Significantly assembly and disassembly of the complex might not necessarily follow the same order  .
+For example once the complex is formed removal for example by high ionic strength of a single component brought in relatively early such as MLE might be possible without affecting the rest of the complex  .
+One major task at hand now will be to resolve the specificities of the proposed interactions between the various MSL proteins and the roX RNAs  .
+This could be done by carrying out detailed in vitro studies which might not be easy to perform many MSL proteins are difficult to express stably in bacteria or eukaryotic expression systems  .
+An alternative might be to establish a heterologous in vivo system such as yeast where protein-protein and RNA-protein interactions can be readily detected using sensitive reporter assays  .
+A second important question is whether the roX genes have the same overlapping or complementing functions  .
+Although roX mutant males are fully viable  it was suggested that roX mutant males lacking a large number of additional genes including roX have a lethal dosage-compensation phenotype because the DCC fails to assemble on the X chromosome   .
+Unfortunately no roX mutations have been recovered yet they would be important tools for validating the significance of the roX RNAs in vivo  .
+Furthermore roX and roX are only the first two of about chromatin entry sites although perhaps they are the most important ones  .
+The nature of the remaining sites is entirely unclear and there is as yet no evidence that they contain other roX-like RNAs  .
+This brings us to the largest of all mysteries namely how the DCC is spread along the X chromosome  .
+One possibility is that the remaining or so sites are 'stations ' that serve as spreading facilitators in the form of DNA elements  .
+Thus primDCCs andor mature mat DCCs originating from the roX entry sites might hop from one 'station' to the next and eventually reach all the entry sites distributed along the entire X chromosome   .
+Not unlike in Drosophila the DCC complex of C elegans is also assembled in an ordered sequence but no RNAs have been identified that might be involved in this assembly process  either there will be yet another surprising turn in this multifaceted process or the CroX C elegans roX RNAs wait to be discovered  .
+The sequential addition of new components particularly the roX RNA might induce changes in the structure of already incorporated components illustrated by ovals becoming circles increasing the stability of the DCC  .
+MLE might be removed in vitro for example by elevated ionic strength without destroying the entire complex because of the stabilizing presence of MOF-MSL  .
+The role of roX RNA is not clear but it is integrated late in this process together with or after MOF and MSL roX might provide additional stability to the mature DCC MatDCC  .
+So roX and roX might be partially redundant  .
+While the neur and mib genes are evolutionarily conserved their respective roles in the context of a single organism have not yet been examined  .
+D-mib also modulates lateral inhibition a neur- and Dl-dependent signaling event suggesting that D-mib regulates Dl signaling  .
+During wing development expression of D-mib in dorsal cells appears to be necessary and sufficient for wing margin specification indicating that D-mib also regulates Ser signaling  .
+Finally ectopic expression of neur in D-mib mutant larvae rescues the wing D-mib phenotype indicating that Neur can compensate for the lack of D-mib activity  .
+These different requirements for Dl and Ser appear to primarily result from their non-overlapping expression patterns rather than from distinct signaling properties  .
+Consistent with this interpretation Dl and Ser have been proposed to act redundantly in the sensory bristle lineage where they are co-expressed  note however that results from another study have indicated a non-redundant function for Dl in the bristle lineage   .
+Furthermore Dl and Ser appear to be partially interchangeable because the forced expression of Ser can partially rescue the Dl neurogenic phenotype   .
+First clonal analysis in Drosophila has suggested that dynamin-dependent endocytosis is required not only in signal-receiving cells but also in signal-sending cells to promote N activation   .
+Moreover genetic and transplantation studies have indicated that both Neur and Mib act in a non-autonomous manner  indicating that endocytosis of Dl is associated with increased Dl signaling activity  .
+In one study Liquid facet was proposed to target Dl to an endocytic recycling compartment suggesting that recycling of Dl may be required for signaling  .
+Accordingly signaling would not be linked directly to endocytosis but endocytosis would be prerequisite for signaling   .
+How endocytosis of Dl leads to the activation of N remains to be elucidated  .
+Also whether the signaling activity of Ser is similarly regulated by endocytosis is not known  .
+While genetic analysis has revealed that neur in Drosophila and mib in D rerio are strictly required for N signaling knockout studies of mouse Neur has indicated that NEUR is not strictly required for N signaling   .
+One possible explanation is functional redundancy with the mouse Neur gene  .
+Conversely the function of Drosophila mib D-mib the homolog of D rerio mib gene is not known  .
+To establish the respective roles of these two distinct E ligases in the context of a single model organism we have studied the function of the Drosophila D-mib gene  .
+We report here that D-mib like D rerio Mib appears to regulate Dl signaling during leg segmentation wing vein formation and lateral inhibition in the adult notum  .
+We further show that D-mib is specifically required for Ser endocytosis and signaling during wing development indicating for the first time to our knowledge that endocytosis regulates Ser signaling  .
+Nevertheless the ectopic expression of Neur compensates for the loss of D-mib activity in the wing indicating that Neur and D-mib have overlapping functions  .
+Lethality was reverted by precise excision of the P-element suggesting that insertion of this P-element is a D-mib mutation referred to as D-mib  .
+This indicates that these two lethal mutations are D-mib mutant alleles and they were therefore renamed D-mib and D-mib respectively  .
+The D-mib mutant allele is predicted to produce a truncated protein devoid of E ubiquitin ligase activity whereas the D-mib protein carries a mutation at a conserved position in the second Mib repeat  .
+This allele is therefore predicted to produce a truncated protein devoid of the catalytic RING domain consistent with D-mib being a null allele  .
+Expression of wg-lacZ in the hinge region arrowheads in D and E and the accumulation of Cut in sensory cells small arrows in B and C and muscle precursor cells large arrowheads in B and C appeared to be largely unaffected  .
+All these phenotypes may result from reduced N signaling  .
+More specifically the bristle and leg phenotypes are likely to result from reduced signaling by Dl and not by Ser  .
+Together these observations suggest that D-mib regulates Dl signaling in several developmental contexts  .
+Thus the D-mib wing phenotype may result from defective N inductive signaling at the D-V boundary  .
+Dl and Ser were also detected in large intracellular vesicles that probably correspond to multivesicular bodies in that they also stained for hepatocyte growth factor-regulated tyrosine kinase substrate  Figure B–C′′′ data not shown  .
+The intracellular dots seen with the anti-D-mib antibodies were distinct from the Dl- and Ser-positive dots and appeared to result from background staining data not shown  .
+The reduced cytoplasmic staining seen in D-mib mutant cells Figure F–F′′ suggests that D-mib is also present in the cytoplasm  .
+These localization data suggest that D-mib may act at the apical cortex to regulate the activity of Dl andor Ser  .
+This indicates that D-mib is required for Ser signaling by dorsal cells  .
+In contrast ventral clones did not prevent the expression of Cut C and D implying that D-mib is not strictly required for Dl signaling  .
+Note that mutant ventral cells abutting wild-type dorsal cells expressed Cut arrow in D indicating that D-mib is not required for N signal transduction  .
+We next examined the potential role of D-mib in regulating Dl and Ser distribution in wing imaginal discs  .
+To test whether this specific increase in the level of Ser at the apical cortex resulted from reduced Ser endocytosis in D-mib mutant cells we followed the endocytosis of Ser in living imaginal discs using an antibody uptake assay  .
+The complete loss of D-mib activity in D-mib wing discs did not significantly change the internalization of anti-Dl antibodies Figure D′′ E′′ and F′′ indicating that D-mib is not required for Dl endocytosis in this tissue  .
+Ubiquitin-mediated endocytosis is thought to depend on monoubiquitination  .
+Thus by analogy with the function of Mib in D rerio  we suggest that D-mib may directly monoubiquitinate Ser  .
+Consistent with this hypothesis we show in a companion paper that D-mib binds Ser E C Lai F Roegiers X Qin R Le Borgne F Schweisguth et al unpublished data  .
+Moreover a mutation in the C-terminal catalytic RING domain of D-mib abolished its ability to internalize Ser in transfected S cells R L B and F S unpublished data implying that the E ubiquitin ligase activity of D-mib is required for Ser internalization  .
+Biochemical analysis of the ubiquitination events regulated by D-mib will be needed to further define the mechanism by which D-mib regulates the endocytosis of Ser in vivo  .
+The regulation of Ser endocytosis by D-mib suggests that D-mib may regulate Ser signaling  .
+If D-mib is required for Ser signaling during wing development then loss of D-mib activity in dorsal cells should affect the specification of the wing margin in a non-autonomous manner  .
+The lack of Cut expression in wild-type ventral cells abutting the D-V boundary indicates that D-mib is required for Ser signaling by dorsal cells and acts in a non-autonomous manner to activate N in ventral cells  .
+Conversely loss of D-mib activity in large ventral clones Figure C and D did not disrupt margin specification indicating that D-mib is not strictly required for Dl signaling by ventral cells  .
+However a narrowing of the Cut-positive margin was observed Figure D suggesting that D-mib contributes to regulating the level of Dl signaling  .
+Of note ventral D-mib mutant cells expressed Cut implying that D-mib is not required for N signal transduction  .
+We next tested whether expression of D-mib in dorsal cells is sufficient to rescue the D-mib wing phenotype  .
+A similar rescue was observed with a YFPD-mib protein Figure B–B″ indicating that YFPD-mib is functional  .
+However cells expressing high levels of YFPD-mib showed a strong reduction in the level of both Dl and Ser at the cortex Figure C–C′′′ further indicating that D-mib down-regulates the levels of both Ser and Dl at the apical cortex E C Lai F Roegiers X Qin R Le Borgne F Schweisguth et al unpublished data  .
+This indicates that D-mib acts at a step upstream of N activation  .
+Expression of Ser in dorsal cells did not rescue the D-mibD-mib wing pouch mutant phenotype compare B with A consistent with D-mib being required for Ser signaling  .
+By contrast expression of Ncdc an activated version of N led to the deregulated growth of the dorsal compartment and the expression of Cut in most dorsal cells C indicating that activated N acts downstream of D-mib  .
+The different requirements for neur and D-mib gene activity may suggest that Neur and D-mib have distinct molecular activities  .
+Alternatively this difference may reflect a difference in gene expression  .
+Consistent with the latter hypothesis the neur gene is not expressed in wing pouch and wing margin cells where it is not required and appears to be expressed only in sensory cells  where it is required  .
+By contrast D-mib appears to be uniformly expressed in imaginal discs  .
+To test this hypothesis we examined whether the forced ubiquitous expression of the neur gene can suppress the D-mib loss-of-function phenotype  .
+This indicates that a key function of Neur in the embryo cannot be provided by D-mib  .
+We therefore suggest that Neur and D-mib functions overlap but are not strictly identical  .
+Third results from an in vivo antibody uptake assay indicated that the endocytosis of Ser but not of Dl was strongly inhibited in D-mib mutant cells  .
+By analogy the defective growth of the eye tissue may similarly result from the lack of Ser signaling and of N activation along the D-V boundary   .
+Because D-mib co-localizes with Ser at the apical cortex of wing disc cells acts in a RING-finger-dependent manner to regulate Ser endocytosis in S cells R L B and F S unpublished results and physically associates with Ser in co-immunoprecipitation experiments E C Lai F Roegiers X Qin R Le Borgne F Schweisguth et al unpublished data D-mib may ubiquitinate Ser and directly regulate its endocytosis  .
+Our analysis further suggests that endocytosis of Ser is required for Ser signaling  .
+Thus endocytosis of both N ligands appears to be strictly required for N activation in Drosophila  .
+Different models have been proposed to explain how endocytosis of the ligand which removes the ligand from the cell surface results in N receptor activation discussed in   .
+Noticeably there is no C elegans Mib homolog and the function of C elegans neur FD is not known  .
+We speculate that endocytosis of the ligands may have evolved as a means to ensure tight spatial regulation of the activation of N  .
+These data thus indicate that the neur and D-mib genes have largely distinct and complementary functions in Drosophila  .
+Whether a similar functional relationship between Neur and D-mib exists in vertebrates awaits the study of the D rerio neur genes andor of the murine Mib and Neur genes  .
+Furthermore Dl signaling appears to require the activity of either Neur or D-mib depending on the developmental contexts  .
+We have shown here that specific aspects of the D-mib phenotype in legs and in the notum cannot simply result from loss of Ser signaling and are consistent with reduced Dl signaling suggesting that D-mib regulates Dl signaling  .
+Consistent with this interpretation overexpression studies indicate that D-mib up-regulates the signaling activity of Dl whereas a dominant-negative form of D-mib inhibits it E C Lai F Roegiers X Qin R Le Borgne F Schweisguth et al unpublished data  .
+It is conceivable that the contribution of D-mib to the endocytosis of Dl is masked by the activity of D-mib-independent processes that may or may not be linked to Dl signaling  .
+We have also shown that reciprocally Neur and D-mib may similarly regulate Ser  .
+Whether endogenous Neur binds and activates Ser remains to be tested  .
+However the ability of Neur to rescue the D-mib mutant wing phenotype when expressed in dorsal cells strongly indicates that Neur can promote Ser signaling  .
+Together these data indicate that Neur and D-mib have similar molecular activities  .
+D-mib and Neur may have identical molecular activities but distinct expression patterns hence distinct functions at the level of the organism  .
+Consistent with this possibility D-mib is uniformly distributed in imaginal discs whereas Neur is specifically detected in sensory cells   .
+Importantly the rescue of the D-mib mutant phenotype by ectopic expression of Neur strongly supports this interpretation  .
+This result further suggests that Neur can regulate Ser signaling  .
+Consistent with this idea overexpression of Neur in imaginal discs resulted in a strong reduction of Ser accumulation at the apical cortex data not shown  .
+Thus despite their obvious structural differences Neur and D-mib appear to act similarly to promote the endocytosis of Dl and Ser  .
+Nevertheless our observation that D-mib could not compensate for the loss of neur activity in the embryo indicates that D-mib and Neur have overlapping rather than identical molecular activities  .
+In conclusion Neur and D-mib appear to have similar molecular activities in the regulation of Dl and Ser endocytosis but distinct developmental functions in Drosophila  .
+The conservation from Drosophila to mammals of these two structurally distinct but functionally similar E ubiquitin ligases is likely to reflect a combination of evolutionary advantages associated with i specialized expression pattern as evidenced by the cell-specific expression of the neur gene in sensory organ precursor cells  ii specialized function as suggested by the role of murine MIB in TNFα signaling  iii regulation of protein stability localization andor activity  .
+The D-mib D-mib and D-mib alleles appear to be genetically null alleles since the phenotypes of D-mibD-mib and D-mibD-mib mutant pupae are indistinguishable from the ones seen in D-mibD-mib and D-mibD-mib pupae  .
+Antineurogenic phenotypes induced by truncated Notch proteins indicate a role in signal transduction and may point to a novel function for Notch in nuclei  .
+The elevated level of adenosine in the hemolymph due to lack of ADGF-A leads to apparently inconsistent phenotypic effects precocious metamorphic changes including differentiation of macrophage-like cells and fat body disintegration on one hand and delay of development with block of pupariation on the other  .
+The block of pupariation appears to involve signaling through the adenosine receptor AdoR but fat body disintegration which is promoted by action of the hemocytes seems to be independent of the AdoR  .
+The existence of such an independent mechanism has also been suggested in mammals  .
+ADA occurs as a soluble monomer in all human cells but also exists as &ecto-ADA& bound to the membrane glycoprotein CDdipeptidyl peptidase IV and it has been suggested that this form of ADA regulates extracellular adenosine levels   .
+Drosophila also contains a gene termed Ada with sequence similarity to human ADA but as we have previously shown the product of this gene is most likely not an active ADA   .
+To confirm that the mutant phenotype is caused solely by a mutation in the ADGF-A gene we created transgenic flies carrying the ADGF-A gene under a heat-shock promoter HS-ADGF-A  .
+The adgf-a homozygous flies carrying the HS-ADGF-A construct showed survival rates significantly higher than adgf-a even without heat shock probably due to leaky expression of the HS-ADGF-A construct Figure A  .
+To test whether the function of ADGF-A in vivo is also dependent on its catalytic activity we produced two versions of the UAS-ADGF-A construct  one carrying wild-type cDNA of ADGF-A and one carrying an ADGF-A cDNA with a mutation causing a substitution of two amino acids HG and AE in the catalytic domain   .
+To distinguish which tissues require ADGF-A expression for proper development we tested for rescue of adgf-a lethality by expressing ADGF-A in specific subsets of larval tissues  .
+The difference in effectiveness may be explained by the different expression patterns of the drivers  .
+Nearly all rescued individuals were males suggesting that expression of the Gal driver was influenced by X-chromosome dosage compensation and expression in females heterozygous for Dot-Gal was not strong enough for rescue  .
+We therefore used the lhem mutation to test whether the reduction of hemocyte number in the adgf-a mutant affects the phenotype  .
+This shows that the effect on hemocyte development is related to only one other aspect of the adgf-a phenotype &namely fat body disintegration&and the developmental arrest of adgf-a mutants is probably independent of this process  .
+Previous results suggest that fat body disintegration might be caused by the action of hemocytes  .
+We therefore tested whether a mutation in the crq gene would block the suggested interaction between hemocytes and fat body in adgf-a mutant larvae  .
+This shows that the block of the putative interaction between fat body and macrophage-like cells which are still present in double mutants suppresses the fat body disintegration further strengthening the hypothesis that the disintegration is caused by hemocytes  .
+In addition the absence of lamellocytes and the normal number of crystal cells in the double mutant strongly suggest that the differentiation of these cells and thus melanotic tumor formation is a secondary reaction to fat body disintegration rather than a primary effect of the adgf-a mutation  .
+We used this mutant to test the hypothesis that the increased level of adenosine in the adgf-a mutant contributes to the mutant phenotype by its effect on signaling through the adenosine receptor  .
+The delayed development and low pupariation rate in the adgf-a mutant larvae see Figures A and A could be caused by an effect on hormonal regulation of development  .
+The block of pupariation in the adgf-a mutant suggested that the level of ecdysone in these larvae might not be sufficient to initiate pupariation  .
+To test this possibility we tried to rescue the phenotype by feeding mutant larvae E which can initiate pupariation in the ecd mutant which has an extremely low level of ecdysone   .
+Since the adgf-a mutant shows certain precocious metamorphic changes macrophage differentiation and fat body disintegration we speculated that a reduced ecdysteroid level could be caused by precocious degeneration of the prothoracic part of the ring gland  .
+Mutants that pupariated usually showed typical GFP expectoration indicating the presence of a high premetamorphic peak of ecdysteroids Figure E  .
+These results demonstrate that the target tissues of adgf-a mutants are normally responsive to ecdysteroids and that they are probably capable of releasing ecdysteroids although the level of ecdysteroids might vary&gt  .
+All of these phenotypes are strikingly similar to the abnormalities seen in adgf-a mutants which was our first clue as to a possible interaction of ADGF-A with the Toll signaling pathway  .
+We hypothesized that the activity of ADGF-A is suppressed by Toll signaling resulting in similar phenotypes of the adgf-a mutation and constitutive activation of Toll pathway  .
+To test this hypothesis we crossed transgenic flies carrying ADGF-A gene under the control of a heat-shock promoter on Chromosome II HS-ADGF-A with cactE a lethal allele of cact on Chromosome II which in combination with cactD results in a zygotic null combination or with cactIIIG results in zygotic hypomorphic combination  .
+Just as increased levels of both ADA substrates adenosine and deoxyadenosine are found in blood of SCID patients  adgf-a mutant larvae also have elevated levels of adenosine and deoxyadenosine indicating that the mutant phenotype is caused by disturbance in the turnover of these nucleosides  .
+Expression of ADGF-A only in the lymph glands is sufficient to fully rescue the mutant phenotype indicating that the hemocytes within the lymph glands play a major role in regulation of adenosine levels in the hemolymph  .
+This suggests a function for ADGF-A within the lymph gland  .
+However ADGF-A behaves as a soluble growth factor and could be released from the lymph gland to activate targets elsewhere in the larval body  .
+Our results show that ADGF-A functions by limiting the level of extracellular adenosine and in this way the protein could have a systemic function even if it were restricted to its tissue of origin  .
+Recent studies show that the Toll signaling pathway which is already known to be involved in the control of innate immunity of both Drosophila and mammals  may also be involved in the control of hemocyte differentiation in the Drosophila larva  .
+Our work also shows that forced expression of the ADGF-A gene can rescue the effects of overactive Toll signaling suggesting that ADGF-A might function downstream of Toll signaling to control its effects  .
+It will be important to explore this connection further since recent studies suggest an interaction between adenosine signaling and the NF-&B signaling pathway which is the mammalian counterpart of the Toll pathway   .
+One of the most remarkable features of the adgf-a mutant phenotype is the disintegration of the fat body in third-instar larvae another indication of precocious metamorphic changes since the disintegration normally occurs much later during pupal life  .
+A similar role of Croquemort for removing histolysing tissues during Drosophila metamorphosis has not yet been tested but seems likely since the crq mutant used in this study crqKG is lethal in pupae  .
+The idea that hemocytes are involved in fat body dissociation in Drosophila is further supported by work on the flesh fly Sarcophaga  .
+This protein was suggested to be a scavenger receptor but it does not seem to be homologous to Drosophila Croquemort unpublished data  .
+This is consistent with the idea that more than one scavenger receptor is involved in this process  .
+Possible Signaling Role for Adenosine  .
+The precocious metamorphic changes that appear to occur in response to elevated adenosine in the adgf-a mutant larvae lead to the suggestion that adenosine may act as a regulatory signal for these processes during normal development  .
+One possibility is that adenosine acts as a downstream effector of ecdysone-regulated prepupal changes and that the increase in adenosine concentration is mediated by ecdysone-induced down-regulation of ADGF-A expression  .
+This is supported by the presence of multiple sites for ecdysone-inducible transcription regulators in the ADGF-A promoter Figure   .
+Adenosine could serve as a signal for macrophage differentiation and the lack of adenosine deaminase activity due to the adgf-a mutation could cause precocious differentiation of these cells in mutant larvae  .
+We are now carrying out direct tests of the idea that the differentiation of hemocytes in mutant larvae is caused by elevated adenosine  .
+If confirmed this effect would have general significance since in ADA-deficient mice inflammatory changes in the lungs include an accumulation of activated alveolar macrophages  and this could also be mediated by elevated adenosine  .
+The elevated adenosine in the adgf-a mutant larvae leads to precocious changes hemocyte differentiation and fat body disintegration resembling those normally occurring at the time of metamorphosis but it also is associated with an apparently opposite effect in that it causes a significant delay in progress through the third larval instar and a decrease in the frequency of successful pupariation formation of the puparium from the larval cuticle which is one of the earliest steps in metamorphosis  .
+One possible explanation for the developmental delay and failure to pupariate is that the adgf-a mutation affects the production or release of ecdysteroid hormones from the major endocrine organ of the Drosophila larva&the ring gland  .
+This is supported by the fact that pupariation rate and survival of the adgf-a mutant can be significantly improved by expression of transgenic ADGF-A in the ring gland and salivary glands  .
+We suggest that this somehow interferes with the regulation of hormone release  .
+Presumably the elevated adenosine in the adgf-a mutant blocks the production or release of ecdysone from the ring gland by an unknown mechanism  .
+This idea is supported by our finding that both pupariation rate and survival of the adgf-a mutant can also be improved by feeding the mutant larvae with E in the diet see Figure A  .
+Therefore adenosine signaling through the AdoR must play a role in the developmental arrest of the adgf-a mutant and this is most likely mediated by signaling to the ring gland where AdoR is expressed ED unpublished data  .
+The mutation in AdoR does not block macrophage differentiation and fat-body disintegration so this effect must involve another as yet uncharacterized mechanism independent of AdoR signaling  .
+Work using adenosine-receptor deficient mammalian cells also suggested the existence of a novel undefined adenosine signaling mechanism   .
+Drosophila now with the advantage of the well-characterized adgf-a mutant could serve as an ideal model system in which to investigate this mechanism  .
+Together with our result suggesting an interaction between Toll signaling and ADGF-A this leads to the hypothesis that adenosine controls hemocyte differentiation in response to infection and that it signals through the adenosine receptor to postpone the next developmental step metamorphosis  .
+This would be consistent with the role of adenosine as a &stress hormone& in mammals   .
+This raises the possibility that adenosine plays a role in the control of metamorphosis as well as in the response to stress  .
+The VDJ recombination reaction in jawed vertebrates is catalyzed by the RAG and RAG proteins which are believed to have emerged approximately million years ago from transposon-encoded proteins  .
+Our results provide the first direct evidence linking RAG and RSSs to a specific superfamily of DNA transposons and indicate that the VDJ machinery evolved from transposons  .
+We propose that only the RAG core was derived from the Transib transposase whereas the N-terminal domain was assembled from separate proteins of unknown function that may still be active in sea urchin lancelet hydra and starlet sea anemone  .
+We also suggest that the RAG protein was not encoded by ancient Transib transposons but emerged in jawed vertebrates as a counterpart of RAG necessary for the VDJ recombination reaction  .
+RAG and RAG activity is central to adaptive immunity but the precise evolutionary origins of these proteins were unknown the authors argue that RAG evolved from the Transib family of transposons  .
+Even prior to the discovery of RAG and RAG it had been suggested that the first two RSSs were originally terminal inverted repeats TIRs of an ancient transposon whose accidental insertion into a gene ancestral to BCR and TCR followed by gene duplications triggered the emergence of the VDJ machinery   .
+Later this model was expanded by the suggestion that both RAG and RAG might have evolved from a transposase TPase that catalyzed transpositions of ancient transposons flanked by TIRs that were precursors of RSSs   .
+In vertebrates in vivo RAG-mediated transpositions are strongly suppressed probably to minimize potential harm to genome function  .
+However given the lack of significant structural similarities between RAGs and known TPases the &RAG transposon& model remained unproven  .
+Transib transpositions are expected to be catalyzed by the binding of the TPase to TIRs of autonomous and nonautonomous transposons   .
+Genomes of plants and vertebrates seem to be free of any recognizable Transib transposons Figure   .
+The observed improvement in significance of the TransibRAG similarity from E = in BLASTP to Ei = in PSI-BLAST Table was due to the fact that both -aa and -aa hypothetical GenBank proteins were apparent remnants of Transib TPases approximately identity to the TransibAG TPase E &lt & in BLASTP  .
+The RAG proteins appeared to be more similar to the position-specific scoring matrix PSSM created by PSI-BLAST based on multiple alignment of the TransibAG TPase and two Transib TPase-like proteins than to the solo TransibAG TPase in the BLASTP search  .
+The observed patchy distribution could be caused by horizontal transfers and extinctions of Transib transposons in eukaryotic species  .
+The two terminal motifs of RAG NBR are conserved in the Transib TPases Figure S which indicates that they may be important for their binding to the Transib TIRs during transposition the RSS-like structure of TIRs is described below Figure   .
+The central domain of the RAG core residues & includes two aspartic acid residues from the DDE triad and is also thought to be involved in binding to the RSS heptamer and RAG   .
+In addition to the catalytic activity attributed to the last residue of the DDE triad this domain has a strong nonspecific DNA-binding affinity because it binds to coding DNA upstream of the RSS heptamer and is thought to be involved in RAG dimerization   .
+This domain is predicted to function analogously in Transib transposons  .
+Based on this information the function of these motifs in Transib TPases is expected to be similar to that in RAG  .
+Among the most conserved motifs motif see Figures and Figure S is of particular interest because its function is not known yet but is expected to play a role both VDJ recombination and Transib transposition  .
+In addition to the statistically significant similarity between the approximately -aa RAG core and Transib TPases there are two other lines of evidence suggesting evolution of the VDJ machinery from Transib DNA transposons  .
+RAG-mediated transpositions also show significant target specificity presumably reflecting the original specificity of the Transib TPase   .
+Indigenous properties of the Transib TPase that were not related directly to RAG functions including those responsible for the precise -bp length of TSDs might have been altered during evolution of RAG leading to occasional -bp and -bp TSDs that are atypical for Transib transposons  .
+The structure and conservation patterns of the -bp termini of Transib transposons from different families closely resemble those of RSSs suggesting that the latter were derived from termini of ancient Transib transposons Figures and S  .
+Both copies appear to be encoded by pseudogenes damaged by a stop codon at the same position of each protein  .
+Extensive analysis of the flanks failed to show any hallmarks of putative transposons that might be associated with this RAG-like protein and we did not find any evidence indicating that other RAG core&like proteins are encoded by transposable elements Figure   .
+The & terminal portion of the internal exon encodes a protein sequence that appears to be marginally similar to an approximately -aa fragment of the RAG core positions & in human RAG Figure S  .
+The RAG core&like protein in whole genome shotgun WGS contig Figure also seems to be encoded by the last exon starting at position of a hypothetical RAG-like gene  .
+The new conserved motifs are H-x-L-x-C-R-x-C-G and D-x-I-h-P-x-F-C-x-C and their function remains to be determined  .
+It is thought that the ring finger motif of RAG functions as a zinc-binding domain is involved in dimerization  and acts as an E ligase in the ubiquitylation   .
+It also likely that the N-terminal RAG and RAG-like proteins share an additional conserved motif W-x-p-h-x&-C-x-C that resides between conserved motif and the ring finger Figure   .
+None of the sea urchin and lancelet proteins align to the approximately -aa N-terminus of RAG which may indicate that this portion is missing from the genome or highly diverged and difficult to detect  .
+To test whether the reported sea urchin sequences represent a true RAG-like match we cut off the ring finger motif and repeated the BLASTP search against all GenBank proteins  .
+Based on the same approach our study found that the starlet sea anemone and hydra genomes also encode several families of the N-terminal RAG domain that appear to be separate from the RAG core&like proteins data not shown  .
+Because there were no known TPases similar to RAG it could be argued that RAG independently developed some TPase-like properties rather than deriving them from a TE-encoded TPase   .
+As shown in this paper the RAG core was derived from a Transib TPase but given the low identity between the Transib TPase and the RAG core & it is not clear whether the ancestral transposon was a member of the group of canonical Transib transposons preserved in modern genomes of insects hydra and sea urchin see Figure or a member of an unknown group of Transib transposons that encoded a TPase that was more similar to RAG core than to the canonical TPase from the currently known Transib transposons  .
+Furthermore after its recruitment the RAG core most likely went through a period of intensive transformations due to diversifyingpositive selection which further decreased its similarity to Transib TPase  .
+Afterwards the RAG genes continued to evolve at a slow and steady pace under stabilizing selection as indicated by the observed conservation of the RAG core identity between sharks and mammals  .
+Some of the intermediate stages of RAG evolution can be inferred from analysis of the sea urchin in which RAG-like proteins were recently observed  and from analysis of the lancelet starlet sea anemone and hydra genomes  .
+Based on the presence of stop codons disrupting some of the RAG-like sequences it has been suggested that the sea urchin sequences represent remnants of transposable elements  .
+Therefore even if only of the sea urchin genome has been sequenced to date it is expected that the regions flanking the TPase portions of potential autonomous elements should be similar to numerous nonautonomous elements  .
+Nevertheless based on the orientations and relative positions of these transposons none of them appears to be associated with the RAG-like sequences see Figure   .
+Still given that only one third of the sea urchin genome is currently assembled as a set of contigs longer than several thousand nucleotides the remaining portion is represented by short WGS sequences we cannot rule out the possibility that the sea urchin RAG-like proteins are remnants of an unknown branch of Transib transposons  .
+Given that the genomes of lancelet hydra and starlet sea anemone are currently available only as unassembled WGS traces the question whether the corresponding RAG-like sequences are remnants of transposons or genespseudogenes must be left open  .
+The alternative possibility is that the sea urchin RAG core&like sequences represent diverse genes and pseudogenes that belong to a rapidly evolving multigene family  .
+This opens the tantalizing possibility that the RAG core was recruited from a Transib TPase in a common ancestor of Bilaterians and Cnidarians and subsequently lost in nematodes insects and sea squirts see Figure   .
+Furthermore given that the sea urchin lancelet hydra and starlet sea anemone genomes harbor several highly divergent N-terminal&like domains separate from the RAG core&like sequences and known transposable elements it is very likely that the N-terminal&like domains of RAG also form a multigene family that can be traced back to a common ancestor of Deuterostomes see Figure   .
+If so then both N-terminal and core domains of RAG might have been derived from different genes present in a common ancestor of Deuterostomes  .
+Alternatively the N-terminal domain of RAG might have been derived from a separate unknown transposon  .
+The N-terminal domain of RAG has long been viewed as distinct from the core domain due to its lack of direct involvement in the VDJ recombination reaction  .
+In the sea urchin lancelet hydra and starlet sea anemone genomes the RAG core&like sequences and the N-terminal domain&like sequences do not appear to be linked to each other or to any other proteins  .
+Taken together with the fact that only the RAG core is significantly similar to Transib TPase the data suggest that the vertebrate RAG represents a fusion of once separate proteins  .
+This is consistent with the observation that in teleosts bony fish the RAG gene is divided into exons by either one or two introns  .
+The core-like sequences encoded by the sea urchin WGS sequence contigs and correspond to either the second or third RAG exon in teleosts depending on the number of introns which is remarkably consistent with the fusion model  .
+The same model predicts that the N-terminal domain of RAG could also be assembled from two separate domains based on the presence of the second intron in some teleosts splitting the N-terminal domain into the -aa N-terminal subdomain and the rest   .
+As indicated above this subdomain corresponding to the first exon in the genes split by two introns appears to be missing in the sea urchin lancelet hydra and starlet sea anemone N-terminal&like proteins  .
+It may be encoded by a separate exon that is difficult to detect given its short length and the high level of sequence divergence between these species and vertebrates or it might have been added in vertebrates  .
+Again it is unclear if this part is not present in sea urchins or simply undetectable due to its small size and the high sequence divergence  .
+It is currently believed that both RAG and RAG proteins were originally encoded by the same transposon recruited in a common ancestor of jawed vertebrates   .
+Therefore it is in principle possible that an ancient vertebrate Transib that was a direct ancestor of the RAG core also encoded a second protein the direct ancestor of RAG  .
+Nevertheless the apparent lack of RAG-like proteins in the sequenced portion of the sea urchin lancelet hydra and sea anemone genomes as well as in Transib transposons suggests that RAG was introduced in a separate event in jawless vertebrates  .
+However given the low identity between the RAG and sea urchinlanceletsea squirt RAG-like proteins we cannot exclude the possibility that the ancestral RAG protein went through a period of strong diversification driven by positive selection and it can no longer be identified by sequence comparisons but may still be present in invertebrates  .
+In any case the origin of the VDJ recombination system in jawless vertebrates appears to be a culmination of earlier evolutionary processes rather than an isolated event associated with insertion of a single transposon  .
+If so detailed studies of individual components including active Transib transposons and invertebrate proteins homologous to RAG elements can bring new breakthroughs in our understanding of evolutionary and mechanistic aspects of VDJ recombination  .
+The remaining portion of the ZFB motif was probably lost in TPases of insect Transib transposons which do not encode RAG-like proteins  .
+Therefore the presence of serine in this motif is expected to be crucial to Transib transpositions  .
+After submission of our manuscript additional biochemical evidence favoring evolution of VDJ recombination from transposable elements was reported   .
+However although the observed biochemical relationship between the hAT TPase and VDJ recombination is a step forward in our understanding of transposition reaction several arguments strongly suggest that VDJ machinery evolved from a Transib rather than from hAT transposon  .
+All four arguments strongly favor evolution of VDJ machinery from a Transib transposon  .
+Most likely the Transib transpositions are also characterized by hairpin intermediates formed by the ends of the donor DNA double-strand breaks as observed during VDJ recombination and hAT transposition  .
+Whereas much attention has focused on elucidating basic mechanisms governing axon development relatively little is known about the genetic programs required for the establishment of dendrite arborization patterns that are hallmarks of distinct neuronal types  .
+Furthermore different classes of da neurons may function in distinct sensory modalities including thermosensation nociception and larval locomotion Ainsley et al Liu et al Tracey et al raising the possibility that features of dendrite arborization could be correlated with specific behaviors  .
+Dendritic arbors from ddaD and ddaE normally do not come into contact suggesting that intrinsicextrinsic guidance cues target their dendritic arbors to specific receptive fields  .
+Although the mechanisms underlying dendrite development are still largely unknown evidence supporting an important role for transcriptional regulation is emerging  .
+Furthermore some TFs that regulate neurogenesis in mammals including Notch and NeuroD have been shown to function in dendrite morphogenesis demonstrating that some TFs may function at multiple steps in neuron differentiation Redmond et al Gaudilliere et al   .
+With these examples illustrating the significant roles of transcription regulation in dendrite morphogenesis one expects that a systematic analysis of TF function should provide insight into multiple aspects of dendrite development  .
+First transcriptional regulators can either promote or inhibit dendrite arborization suggesting that antagonistic functions of TFs regulate arborization patterns  .
+Second some TFs have opposing actions on dendrite growth and branching suggesting that dendritic branching programs partly entail limiting primary branch extension  .
+Third routing of class I dendrites is regulated by TFs suggesting that directed outgrowth of dendrites involves transcriptionally regulated attractive andor repulsive signaling  .
+Finally certain TFs not only regulate class I neuron number but may serve additional function in dendrite morphogenesis  .
+Our study also reveals the identity and possible function of genes that may regulate vertebrate neuronal morphogenesis since most of the genes we have identified are conserved genes with no previously known function in dendrite development  .
+Next we tested whether RNAi could efficiently phenocopy loss-of-function mutants known to affect dendrite development  .
+Likewise RNAi of sequoia or flamingo resulted in overextension of ddaD and ddaE RNAi of hamlet resulted in supernumerary class I neurons and RNAi of tumbleweed resulted in supernumerary class I neurons and a range of arborization defects data not shown consistent with the reported mutant phenotypes Gao et al Brenman et al Moore et al Goldstein et al   .
+A reduction of coverage could be the result of a net reduction in dendrite outgrowth branching or both  .
+In general the genes with the most severe effects on primary branch outgrowth also have the most severe effects on branching suggesting that these genes may function to regulate dendritic arborization overall  .
+Phenotypic differences are suggestive of distinct functions for some of these genes in regulating dendrite arborization  .
+RNAi of the nuclear hormone receptors ultra- spiracle usp and ecdysone receptor EcR significantly reduced primary dendrite outgrowth but caused only modest reduction of lateral branching and lateral branch outgrowth suggesting that branching is not absolutely dependent on proper outgrowth Fig F Table   .
+Since the UspEcR heterodimer is responsible for ecdysoneresponsive activation of transcription as well as ligandindependent transcriptional repression it is likely that these genes function together to promote dendrite outgrowth  .
+Thus many of these genes are likely essential for embryonic development either due to their involvement in regulating neuronal morphogenesis or due to other aspects of their functions  .
+Both Adf and dpn mutants have defects in larval locomotion and in light of recent findings suggesting that da neurons may regulate aspects of larval locomotion Ainsley et al it is possible that dendrite defects underlie these behavioral defects  .
+Likewise nervy has been implicated in regulation of axon branching in motorneurons and is apparently expressed in most neurons Feinstein et al Terman and Kolodkin   .
+Thus nervy likely regulates multiple aspects of neuronal differentiation  .
+Finally Elongin C may regulate transcriptional elongation but also likely functions as a component of a multimeric protein complex that includes the von Hippel-Lindau VHL tumor suppressor and targets specific proteins for poly-ubiquitination and degradation Shuin et al   .
+It thus appears that protein degradation pathways regulate dendrite arborization  .
+Therefore Polycomb-mediated regulation of hox gene expression likely contributes to arborization of class I neurons  .
+It thus appears that dendritic outgrowth is further limited by neuronal growth capacity andor other external constraints  .
+Thus transcriptional pathways exist that have opposing effects on primary branch outgrowth and secondary branching suggesting that these processes may normally antagonize one another  .
+Therefore there must be mechanisms that promote this stereotyped arborization pattern including signals that promote anterior arborization of ddaD and posterior arborization of ddaE as well as signals that antagonize posterior arborization of ddaD and anterior arborization of ddaE  .
+The routing defects seen with these candidates may reflect a disruption of attractiverepulsive signaling that normally regulates dendrite arborization  .
+The source of such signals is currently unknown although of great interest  .
+TFs likely exert distinct mitotic and post-mitotic functions to regulate neuron morphogenesis TFs play critical roles in neurogenesis and some genes that regulate neurogenesis also affect post-mitotic neuronal differentiation  .
+Because clones of duplicated class I neurons have wild-type dendrite arborization patterns class I dendritic arbors appear to be insensitive to cell number defects Grueber et al b  .
+Indeed dendrite arborization of class I neurons in embryos carrying the temperature-sensitive neurogenic mutation Notch ts N ts is unaffected by as much as a fivefold increase in class I neuron number Fig A&ampxD and is likely insensitive to multiplication of other da neurons as well since our N ts experiments caused increased numbers of other da neurons data not shown  .
+Some TFs affecting class I da neuron number may also have post-mitotic effects on neuronal morphogenesis  .
+In many cases the routing pattern of the dendrites appeared abnormal but the cell number defects make it difficult to resolve the projection pattern of individual dendrites or conclusively determine whether each neuron projects the same number of primary dendrites  .
+Thus it is likely that multiple TFs that regulate neuron number also regulate aspects of post-mitotic neuronal differentiation  .
+Finally we found one gene that appears to be essential for a subset of class I da neurons  .
+Because ci RNAi causes embryonic lethality at high concentrations of dsRNA the phenotypes in surviving embryos likely represent hypomorphic phenotypes  .
+Therefore ci likely promotes differentiation or survival of a subset of da neu  .
+Thus in addition to genes that have essential early developmental functions or redundant functions in dendrite development genes with large maternal contributions are the most likely candidates for false negatives from our screen  .
+Four other genes identified from screening the pools did not yield reliable dendrite phenotypes when tested with injection of concentrated dsRNA likely as a result of early lethality for at least two of the four genes see text  .
+Consistent with a function in neuron morphogenesis  no expression data for other genes of the candidate genes are expressed in the embryonic CNS andor PNS Supplementary Table S  .
+Almost all of these candidates are evolutionarily conserved and have at least one putative mammalian homolog Table raising the possibility that the majority of these genes function in conserved processes regulating dendrite morphogenesis  .
+To explore the possibility that the dendrite phenotypes result from defects in neighboring tissues such as the muscle and epidermis or reflect an overall defect in PNS development we have carried out RNAi of candidate genes using GFP markers that label muscle epidermis or all md neurons  .
+For this subset of TFs it remains to be determined whether they directly or indirectly influence dendrite morphogenesis  .
+In general mosaic analysis with genetic mutants will be required to unambiguously determine whether each of the TFs functions cell autonomously to regulate dendrite development  .
+RNAi phenotypes of many candidates are confirmed by loss-of-function mutant phenotypes To assess the accuracy of our screen we investigated whether RNAi phenotypes phenocopy loss-of-function mutants in candidate genes with available alleles  .
+The only available allele of Trap is likely a hypomorph and Trap is also likely maternally deposited data not shown further analyses will be required to determine whether maternal contributions provide the necessary functions each of these genes in embryonic dendrite development  .
+Since Mi- RNAi demonstrates that Mi- is required for embryonic dendrite arborization these findings suggest that Mi- is continuously required for class I neurons to maintain proper dendrite arborization patterns  .
+Interestingly ddaD showed only very minor branching defects in Adf mutants suggesting that ddaD and ddaE might have distinct requirements for Adf  .
+These findings indicate that Adf Ebx and Elongin C are continuously required to inhibit branching in class I neurons demonstrating that although class I neurons have very little new branching after embryogenesis they still retain the capacity to branch  .
+Therefore it is possible that the different classes of group A genes antagonistically regulate a common set of target genes required for dendrite arborization  .
+These TFs serve largely unknown functions in neural development but given the fact that the majority of the TFs we have identified are evolutionarily conserved Table it should be possible to combine mouse expression analysis with our functional studies to identify candidate TFs that regulate the dendrite morphology of specific neuronal types in the mouse brain  .
+Interesting layers of regulatory mechanisms are likely under the control of the three groups of TFs to specify overall dendritic growth the balance between dendritic extension and branching and dendritic placement  .
+Primary dendrite outgrowth and secondary branch extension perhaps by regulating the basic building blocks of dendrite formation  .
+A second group of TFs either enhance dendrite outgrowth at the expense of branching or vice versa group B demonstrating that whereas these processes may utilize some of the same machinery there are genetic programs that coordinate dendrite outgrowth with branching to limit overall dendrite growth and perhaps to temporally regulate dorsal versus lateral growth to conserve the total expanse of the dendrites  .
+In addition to these TFs that regulate the branching pattern and dendrite length we found that a third group group C is necessary for dendrite routing presumably by interpreting positional cues and signals from surrounding cells  .
+Hox genes may contribute to regulation of dendrite arborization The functional links of several group A genes to hox genes suggest that hox genes may contribute to regulation of the extent of dendrite arborization  .
+Another group A gene nervy is regulated by Ubx and is broadly expressed in neurons suggesting that hox genes may function in neurons to regulate dendrite arborization Feinstein et al   .
+It thus appears that proper regulation of hox gene expression might be important for dendritic arborization  .
+Coordination of primary dendrite growth and lateral branching involves transcriptional silencing Our phenotypic analysis of group B genes indicates that primary branch extension and lateral branch outgrowth at least partially antagonize one another  .
+The majority of the group B genes function in transcriptional repression suggesting that transcriptional repression is likely an important mechanism underlying this antagonism  .
+Group B transcriptional repressors include TFs such as Tramtrack Runt and Groucho that mediate long-range repression involving histone deacetylation which could be mediated by the Sina&ampxRpd deacetylase complex or possibly Sirt the Drosophila homolog of the yeast histone deacetylase Sir  .
+Furthermore many of these genes may function together in a concerted pathway  .
+Multiple components of the transcriptional Mediator Med Trap and Trap were identified as group B genes and interactions between yeast Tup and C elegans Unc- Groucho homologs and the Mediator suggest that recruitment of the Mediator may contribute to Groucho-mediated redendrite arborizationpression as well Papamichos-Chronakis et al Zhang and Emmons   .
+Therefore target genes that normally promote outgrowth and limit branching may be targets of Groucho-mediated repression  .
+The use of multiple repressors could allow different sets of target genes to be repressed at different times or in response to different signals and the use of both long-range and shortrange repressors could reflect a need for global regulation of some genes long range and more nuanced silencing of other genes in a particular place or time short range  .
+Taken together the multiple repressors included among the group B genes allow for flexibility in regulation that may be required for proper coupling of dorsal dendrite outgrowth and lateral branching  .
+In principle the primary dendrite trajectory of ddaD and ddaE could be regulated by heteroneural repulsion that prevents the primary dendrites from crossing  .
+It thus seems likely that cues from other cell types contribute to the segregation of these dendrites  .
+Second several other genes ensure that ddaD and ddaE arborize the anterior or posterior portion of the hemisegment respectively perhaps by providing the secondary lateral branches with the capacity to respond to positional information along the AP axis  .
+Third our results indicate that the Brahma complex likely plays a key role in the dorsal routing of class I primary dendrites  .
