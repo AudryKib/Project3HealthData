@@ -18,9 +18,6 @@ import re
 import numpy as np
 from nltk.corpus import stopwords
 
-import os
-print(os.getcwd())
-
 
 def preprocess_text(sen):
     # Removing html tags
